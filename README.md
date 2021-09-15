@@ -1,1 +1,1 @@
-# SimpleGoodsStockProgram_using-HashMap
+# PracticeHashMap
